@@ -29,14 +29,15 @@ A simple, scalable, and modern ToDo List application built using:
 - Follows **SOLID principles** and **MVC design pattern**
 
 ### Folder Structure
+
 ```
-demo/
-├── controller/
-├── service/
-├── model/
-├── repository/
-├── dto/
-└── config/
+demo/                   
+├── controller/         
+├── service/            
+├── model/          
+├── repository/         
+├── dto/            
+└── config/         
 ```
 
 ---
