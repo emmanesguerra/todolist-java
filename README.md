@@ -1,4 +1,3 @@
-```markdown
 # 📝 ToDoList App
 
 A simple, scalable, and modern ToDo List application built using:
